@@ -7,7 +7,7 @@ function App() {
 
       <Weather />
 
-      <p>Coded by <a href="https://github.com/rez06/weatha">Rezyl Pelobello</a></p>
+      <p className='mt-5'>Coded by <a href="https://github.com/rez06/weatha">Rezyl Pelobello</a></p>
     </div>
   );
 }
