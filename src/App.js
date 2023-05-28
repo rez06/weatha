@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
 
-      <Weather />
+      <Weather defaultCity='Manila'/>
 
       <p className='mt-5'>Coded by <a href="https://github.com/rez06/weatha">Rezyl Pelobello</a></p>
     </div>
