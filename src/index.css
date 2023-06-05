@@ -1,0 +1,12 @@
+.weather-icon canvas{
+    height:64px;
+    width: 64px;
+    margin-right: 10px;
+    display: inline-block;
+    
+}
+
+.temp{
+    font-size: 30px;
+}
+
